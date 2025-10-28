@@ -6,7 +6,7 @@ Last Updated: 8/29/2025
 
 ## Quick Launch
 
-Double-click the ‘pong.exe’ file to open the game.
+After downloading, double-click the ‘pong.exe’ file to open the game.
 
 ## Game Instructions
 

@@ -4,6 +4,8 @@ Created in Unity, v. 6.2 by Autumn Austin
 
 Last Updated: 8/29/2025
 
+Code Walk Through and Gameplay can be viewed here: https://youtu.be/YISSL_HjHek
+
 ## Quick Launch
 
 After downloading, double-click the ‘pong.exe’ file to open the game.
